@@ -1,0 +1,30 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ASSIGNMENT 3</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="food">
+            <div class="text">
+            <h1 class="ff"><b>ZOMATO</b></h1>
+            <p class="f"><b>Discover the best food & drinks in Lucknow</b></p>
+                
+            <select name="city" id="city">
+                <option value="Mumbai"> MUMBAI </option>
+                <option value="Banglore"> BANGLORE </option>
+                <option value="HYDERABAD"> HYDERABAD </option>
+                <option value="LUCKNOW"> LUCKNOW </option>
+                </select>
+                
+            <input type="text" placeholder="search for restaurant, cusine or a dish">
+            
+            </div>
+            <img src="food.jpg" class="bg-img" alt="">
+            
+        </div>
+        
+    </body>
+    </html>
